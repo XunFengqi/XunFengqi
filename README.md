@@ -18,5 +18,5 @@ I sit at the intersection of **Control Theory** and **Software Engineering**, ai
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### 🚀 Featured Projects
-* **[Game Ark (Project Aeternum)](https://github.com/YourName/Game-Ark)**: A decentralized digital asset proof protocol based on RSA-2048 and Steam API. (RSA加密数字资产存证协议)
+* **[Game Ark](https://github.com/YourName/Game-Ark)**: A decentralized digital asset proof protocol based on RSA-2048 and Steam API. (RSA加密数字资产存证协议)
 * **[Project Aeternum](https://github.com/XunFengqi/Project-Aeternum)**: The Digital Sovereignty Protocol. A decentralized, cryptographically secured archive for digital footprints (Steam, GitHub, etc.), built on RSA-2048 signatures and bio-verification. (基于 RSA-2048 签名的去中心化数字主权协议)
