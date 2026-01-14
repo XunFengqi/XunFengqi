@@ -1,6 +1,7 @@
 ### Hi there, I'm XunFengqi 👋
 
 🎓 **PhD Candidate** in Control Science and Engineering at **Harbin Institute of Technology (HIT)**.
+
 🎓 **B.Eng** from **Sichuan University (SCU)**.
 
 I sit at the intersection of **Control Theory** and **Software Engineering**, aiming to bring mathematical precision to digital systems.
