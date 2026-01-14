@@ -19,7 +19,3 @@ I sit at the intersection of **Control Theory** and **Software Engineering**, ai
 #### 🚀 Featured Projects
 * **[Game Ark (Project Aeternum)](https://github.com/YourName/Game-Ark)**: A decentralized digital asset proof protocol based on RSA-2048 and Steam API. (RSA加密数字资产存证协议)
 
----
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-</div>
